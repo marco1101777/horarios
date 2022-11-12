@@ -1,0 +1,10 @@
+{
+	"530A":{
+		"Lunes" : ["Ingles" , " Modulo"  , "Modulo" , "Modulo" , "Calculo Integral", "Calculo  Integral","CTSyV"] , 
+		"Martes" : ["Ingles","Modulo","Calculo Integral","Calculo Integral" , "CTSyV", "Ingles"] ,
+		"Miercoles" : ["Fisica" , "Fisica","Ingles","CTSyV","Modulo","DHI","Calculo Integral"],
+		"Jueves" : ["Modulo","Modulo","Fisica" ,"None","Modulo","Modulo","Modulo"] ,
+		"Viernes":["Ingles","CTSyV","Modulo","DHI", "Modulo","Fisica"] 
+ 	}
+
+}
