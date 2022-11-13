@@ -7,7 +7,7 @@
 		"Viernes":["Ingles","CTSyV","Modulo","DHI", "Modulo","Fisica"] ,  
 		"Profesores" : {
 			"Ingles"  : "0" ,
-			"Modulo"  : "1" , 
+		
 		}
 			
 		
@@ -20,7 +20,7 @@
  		"0" : {
  			"Nombre" : "ANDRES MURO",
  			"Salon" :"1",
- 			"Materias" : ["Ingles","PGA"] 
+ 			"Materias" : ["Ingles"] 
  		},
  		
  	}
