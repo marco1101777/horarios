@@ -3,8 +3,26 @@
 		"Lunes" : ["Ingles" , " Modulo"  , "Modulo" , "Modulo" , "Calculo Integral", "Calculo  Integral","CTSyV"] , 
 		"Martes" : ["Ingles","Modulo","Calculo Integral","Calculo Integral" , "CTSyV", "Ingles"] ,
 		"Miercoles" : ["Fisica" , "Fisica","Ingles","CTSyV","Modulo","DHI","Calculo Integral"],
-		"Jueves" : ["Modulo","Modulo","Fisica" ,"None","Modulo","Modulo","Modulo"] ,
-		"Viernes":["Ingles","CTSyV","Modulo","DHI", "Modulo","Fisica"] 
+		"Jueves" : ["Modulo","Modulo","Fisica" ,"Modulo","Modulo","Modulo"] ,
+		"Viernes":["Ingles","CTSyV","Modulo","DHI", "Modulo","Fisica"] ,  
+		"Profesores" : {
+			"Ingles"  : "0" ,
+			"Modulo"  : "1" , 
+		}
+			
+		
+ 	} , 
+
+
+
+
+ 	"Info" : {
+ 		"0" : {
+ 			"Nombre" : "ANDRES MURO",
+ 			"Salon" :"1",
+ 			"Materias" : ["Ingles","PGA"] 
+ 		},
+ 		
  	}
 
 }
