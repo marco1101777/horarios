@@ -86,15 +86,6 @@ header .title  , header .opc{
 	align-items: center;
 }
 
-table ,tr ,   td{
-	
-	border: red  1px  solid;
-}	
-
-td {
-	text-align: center;
-	padding: 5px;
-}
 .cell{
 	display: none;
 	
